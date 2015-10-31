@@ -1,0 +1,3 @@
+KILLED org.kuali.maven.wagon.UploadFilenamesWithSpacesTest.spaces
+KILLED org.kuali.maven.wagon.SessionTrackerTest.simple
+KILLED org.kuali.maven.wagon.SessionTrackerTest.simple

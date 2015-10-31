@@ -1,0 +1,296 @@
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterSome com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterSome com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterSome com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterSome com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterSome com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterSome com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteToSingleton
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteToSingleton
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteToSingleton
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteToSingleton
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceNone
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceNone
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterNone
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testDistance com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testDistance com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testDistance com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testDistance com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterSome com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testDistance com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterSome com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testDistance com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testDistance com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testReadFromWriteTo com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testReadFromWriteTo com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testReadFromWriteTo com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testReadFromWriteTo com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testReadFromWriteTo com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testReadFromWriteTo com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testReadFromWriteTo com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+KILLED com.zenobase.search.facet.geocluster.GeoPointsTests.testReadFromWriteTo com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo

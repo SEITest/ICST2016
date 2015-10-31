@@ -1,0 +1,7 @@
+com.thousandmemories.photon.core.PhotoResourceTest.test404
+com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth
+com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+com.thousandmemories.photon.core.PhotoResourceTest.testUnsupportedType
+com.thousandmemories.photon.core.PhotoResourceTest.testNoModifications

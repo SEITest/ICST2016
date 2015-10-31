@@ -1,0 +1,3 @@
+org.springframework.data.envers.repository.support.RepositoryIntegrationTest.returnsEmptyRevisionsForUnrevisionedEntity
+org.springframework.data.envers.repository.support.RepositoryIntegrationTest.testname
+org.springframework.data.envers.repository.support.RepositoryIntegrationTest.returnsParticularRevisionForAnEntity

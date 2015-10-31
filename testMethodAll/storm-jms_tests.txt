@@ -1,0 +1,2 @@
+org.apache.storm.jms.spout.JmsSpoutTest.testSerializability
+org.apache.storm.jms.spout.JmsSpoutTest.testFailure

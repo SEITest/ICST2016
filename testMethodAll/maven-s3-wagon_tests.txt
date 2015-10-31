@@ -1,0 +1,5 @@
+org.kuali.maven.wagon.S3WagonTest.simple
+org.kuali.maven.wagon.S3WagonTest.testPermissions
+org.kuali.maven.wagon.UploadFilenamesWithSpacesTest.spaces
+org.kuali.maven.wagon.UploadFilenamesWithSpacesTest.testPermissions
+org.kuali.maven.wagon.SessionTrackerTest.simple

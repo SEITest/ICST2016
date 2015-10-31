@@ -1,0 +1,16 @@
+com.greplin.bloomfilter.BloomFilterTest.testClear
+com.greplin.bloomfilter.BloomFilterTest.testBasic
+com.greplin.bloomfilter.BloomFilterTest.testOpenClose
+com.greplin.bloomfilter.BloomFilterTest.testSetNewFile
+com.greplin.bloomfilter.BloomFilterTest.testMetadataOverwrite
+com.greplin.bloomfilter.BloomFilterTest.testSerialize
+com.greplin.bloomfilter.BloomFilterTest.testSeekThreshold
+com.greplin.bloomfilter.BloomFilterTest.testBrokenGetBucket
+com.greplin.bloomfilter.BloomFilterTest.testBucketSizes
+com.greplin.bloomfilter.BloomFilterTest.testCapacity
+com.greplin.bloomfilter.BloomFilterTest.testRemove
+com.greplin.bloomfilter.BloomFilterTest.testFalsePositiveRate
+com.greplin.bloomfilter.BloomFilterTest.testGetNumAt
+com.greplin.bloomfilter.BloomFilterTest.testPutBucket
+com.greplin.bloomfilter.BloomFilterTest.testCloseCallback
+com.greplin.bloomfilter.BloomFilterTest.testSnapshotting

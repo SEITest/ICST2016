@@ -1,0 +1,252 @@
+com.spatial4j.core.shape.ShapeCollectionTest.testGeoRectIntersect
+com.spatial4j.core.shape.ShapeCollectionTest.testRectIntersect
+com.spatial4j.core.shape.ShapeCollectionTest.testBbox
+com.spatial4j.core.context.SpatialContextFactoryTest.testFormatsConfig
+com.spatial4j.core.context.SpatialContextFactoryTest.testJtsContextFactory
+com.spatial4j.core.context.SpatialContextFactoryTest.testDefault
+com.spatial4j.core.context.SpatialContextFactoryTest.testCustom
+com.spatial4j.core.context.SpatialContextFactoryTest.testSystemPropertyLookup
+com.spatial4j.core.io.BinaryCodecTest.testPoint
+com.spatial4j.core.io.BinaryCodecTest.testCircle
+com.spatial4j.core.io.BinaryCodecTest.testCollection
+com.spatial4j.core.io.BinaryCodecTest.testRect
+com.spatial4j.core.io.JtsWktShapeParserTest.testParseMultiPolygon
+com.spatial4j.core.io.JtsWktShapeParserTest.testMultiLineStringShape
+com.spatial4j.core.io.JtsWktShapeParserTest.testGeomCollection
+com.spatial4j.core.io.JtsWktShapeParserTest.testPolyToRect
+com.spatial4j.core.io.JtsWktShapeParserTest.testLineStringDateline
+com.spatial4j.core.io.JtsWktShapeParserTest.testLineStringShape
+com.spatial4j.core.io.JtsWktShapeParserTest.testParseEnvelope
+com.spatial4j.core.io.JtsWktShapeParserTest.testParsePoint
+com.spatial4j.core.io.JtsWktShapeParserTest.testParsePolygon
+com.spatial4j.core.io.JtsWktShapeParserTest.testPolygonRepair
+com.spatial4j.core.io.JtsWktShapeParserTest.testParseMultiPoint
+com.spatial4j.core.io.JtsWktShapeParserTest.testParsePoint_invalidDefinitions
+com.spatial4j.core.io.JtsWktShapeParserTest.testBuffer
+com.spatial4j.core.io.JtsWktShapeParserTest.testNoOp
+com.spatial4j.core.io.JtsWktShapeParserTest.polyToRect180Rule
+com.spatial4j.core.io.JtsWktShapeParserTest.testWrapTopologyException
+com.spatial4j.core.io.JtsWktShapeParserTest.polyToRectCcwRule
+com.spatial4j.core.io.WktShapeParserTest.testParsePoint
+com.spatial4j.core.io.WktShapeParserTest.testNoOp
+com.spatial4j.core.io.WktShapeParserTest.testGeomCollection
+com.spatial4j.core.io.WktShapeParserTest.testMultiLineStringShape
+com.spatial4j.core.io.WktShapeParserTest.testParseMultiPoint
+com.spatial4j.core.io.WktShapeParserTest.testParsePoint_invalidDefinitions
+com.spatial4j.core.io.WktShapeParserTest.testBuffer
+com.spatial4j.core.io.WktShapeParserTest.testParseEnvelope
+com.spatial4j.core.io.WktShapeParserTest.testLineStringShape
+com.spatial4j.core.io.TestGeohashUtils.testHashLenToWidth
+com.spatial4j.core.io.TestGeohashUtils.testDecodeEncode
+com.spatial4j.core.io.TestGeohashUtils.testLookupHashLenForWidthHeight
+com.spatial4j.core.io.TestGeohashUtils.testDecodeImpreciseLongitudeLatitude
+com.spatial4j.core.io.TestGeohashUtils.testDecodePreciseLongitudeLatitude
+com.spatial4j.core.io.TestGeohashUtils.testEncode
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#0 seed=[5C26B6C5360EC4:BFF89E3DA4FE0E38]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#1 seed=[5C26B6C5360EC4:BAE22C1903CC514]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#2 seed=[5C26B6C5360EC4:8547B41DC1F88DDF]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#3 seed=[5C26B6C5360EC4:B4A91FF8AD06D6F6]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#4 seed=[5C26B6C5360EC4:F8689A550C0E164D]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#5 seed=[5C26B6C5360EC4:6992490A71B25B4D]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#6 seed=[5C26B6C5360EC4:574C2D8C63824B4B]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#7 seed=[5C26B6C5360EC4:CBFFB7F64096DFE5]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#8 seed=[5C26B6C5360EC4:F9535298375DC8BF]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#9 seed=[5C26B6C5360EC4:2ED80422530AFFED]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#10 seed=[5C26B6C5360EC4:DB99EC7981B6DD35]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#11 seed=[5C26B6C5360EC4:503E20BC052B7CFC]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#12 seed=[5C26B6C5360EC4:370DB505E056BE0D]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#13 seed=[5C26B6C5360EC4:5846921A7CC33F7D]}
+com.spatial4j.core.shape.BufferedLineTest.quadrants {#14 seed=[5C26B6C5360EC4:5D89D82AEB27924]}
+com.spatial4j.core.shape.BufferedLineTest.distance
+com.spatial4j.core.shape.BufferedLineTest.testRectIntersect
+com.spatial4j.core.shape.BufferedLineTest.misc
+com.spatial4j.core.shape.BufferedLineStringTest.testRectIntersect
+com.spatial4j.core.shape.TestShapes2D.testSimpleCircle {p0=SpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testSimplePoint {p0=SpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testMakeRect {p0=SpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testSimpleRectangle {p0=SpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testBufferedLineString {p0=SpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testImplementsEqualsAndHash {p0=SpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testSimpleCircle {p0=JtsSpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testSimplePoint {p0=JtsSpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testMakeRect {p0=JtsSpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testSimpleRectangle {p0=JtsSpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testBufferedLineString {p0=JtsSpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapes2D.testImplementsEqualsAndHash {p0=JtsSpatialContext{geo=false, calculator=CartesianDistCalc, worldBounds=Rect(minX=-2000.0,maxX=2000.0,minY=-300.0,maxY=300.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testMakeRect {p0=SpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testGeoCircle {p0=SpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testGeoRectangle {p0=SpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testMakeRect {p0=SpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testGeoCircle {p0=SpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testGeoRectangle {p0=SpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testMakeRect {p0=SpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testGeoCircle {p0=SpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testGeoRectangle {p0=SpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testMakeRect {p0=JtsSpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testGeoCircle {p0=JtsSpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.shape.TestShapesGeo.testGeoRectangle {p0=JtsSpatialContext{geo=true, calculator=RoundingDistCalc, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.io.WktCustomShapeParserTest.testParsePoint
+com.spatial4j.core.io.WktCustomShapeParserTest.testParseEnvelope
+com.spatial4j.core.io.WktCustomShapeParserTest.testNoOp
+com.spatial4j.core.io.WktCustomShapeParserTest.testCustomShape
+com.spatial4j.core.io.WktCustomShapeParserTest.testParsePoint_invalidDefinitions
+com.spatial4j.core.io.WktCustomShapeParserTest.testLineStringShape
+com.spatial4j.core.io.WktCustomShapeParserTest.testBuffer
+com.spatial4j.core.io.WktCustomShapeParserTest.testMultiLineStringShape
+com.spatial4j.core.io.WktCustomShapeParserTest.testNextSubShapeString
+com.spatial4j.core.io.WktCustomShapeParserTest.testParseMultiPoint
+com.spatial4j.core.io.WktCustomShapeParserTest.testGeomCollection
+com.spatial4j.core.shape.JtsGeometryTest.testRussia
+com.spatial4j.core.shape.JtsGeometryTest.testNarrowGeometryCollection
+com.spatial4j.core.shape.JtsGeometryTest.testRegressions
+com.spatial4j.core.shape.JtsGeometryTest.testFiji
+com.spatial4j.core.shape.JtsGeometryTest.testEmpty
+com.spatial4j.core.shape.JtsGeometryTest.testMakeRect
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#0 seed=[29ECFE81812BD403:A1B735B878BFEAED]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#1 seed=[29ECFE81812BD403:15E189444C7D21C1]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#2 seed=[29ECFE81812BD403:9B081F981DB9690A]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#3 seed=[29ECFE81812BD403:AAE6B47D71473223]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#4 seed=[29ECFE81812BD403:E62731D0D04FF298]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#5 seed=[29ECFE81812BD403:77DDE28FADF3BF98]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#6 seed=[29ECFE81812BD403:49038609BFC3AF9E]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#7 seed=[29ECFE81812BD403:D5B01C739CD73B30]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#8 seed=[29ECFE81812BD403:E71CF91DEB1C2C6A]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#9 seed=[29ECFE81812BD403:3097AFA78F4B1B38]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#10 seed=[29ECFE81812BD403:C5D647FC5DF739E0]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#11 seed=[29ECFE81812BD403:4E718B39D96A9829]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#12 seed=[29ECFE81812BD403:29421E803C175AD8]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#13 seed=[29ECFE81812BD403:4609399FA082DBA8]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#14 seed=[29ECFE81812BD403:1B97360772F39DF1]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#15 seed=[29ECFE81812BD403:7825DB03607108C0]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#16 seed=[29ECFE81812BD403:FEDE7CCAAB7963A9]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#17 seed=[29ECFE81812BD403:4A91AED1674C11DB]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#18 seed=[29ECFE81812BD403:55E5D1DF1BD9FED9]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#19 seed=[29ECFE81812BD403:5F75A233B131B874]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#20 seed=[29ECFE81812BD403:3B63A117FCA3600B]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#21 seed=[29ECFE81812BD403:9855F423C32DB89E]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#22 seed=[29ECFE81812BD403:36AE756075C10DDA]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#23 seed=[29ECFE81812BD403:66C9439B1313AD74]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#24 seed=[29ECFE81812BD403:68C12FFC802ED06A]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#25 seed=[29ECFE81812BD403:DCB77D17D3BA8030]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#26 seed=[29ECFE81812BD403:26B0E99BC9765E03]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#27 seed=[29ECFE81812BD403:DF649808F95EB001]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#28 seed=[29ECFE81812BD403:2035C81016C679BF]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#29 seed=[29ECFE81812BD403:B8FA8C75E2F25672]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#30 seed=[29ECFE81812BD403:61DFE6187084A9DD]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#31 seed=[29ECFE81812BD403:CF9CFCCC326E4244]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#32 seed=[29ECFE81812BD403:6DA2BCB766517590]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#33 seed=[29ECFE81812BD403:CFE3F92C031DB3E2]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#34 seed=[29ECFE81812BD403:422719445DB69197]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#35 seed=[29ECFE81812BD403:F74C145402DBEB44]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#36 seed=[29ECFE81812BD403:7AD5E71CA7904FB1]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#37 seed=[29ECFE81812BD403:F462F928D601A804]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#38 seed=[29ECFE81812BD403:51F50D55ED40C423]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#39 seed=[29ECFE81812BD403:BBB1F9360D270E81]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#40 seed=[29ECFE81812BD403:89D1068E7E617214]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#41 seed=[29ECFE81812BD403:5DF9C404DAC2F43E]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#42 seed=[29ECFE81812BD403:20BF4CD8F6FDB321]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#43 seed=[29ECFE81812BD403:8189917D7C253CF8]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#44 seed=[29ECFE81812BD403:9AC2426268E1DFB6]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#45 seed=[29ECFE81812BD403:DCF75A975D5CFAC]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#46 seed=[29ECFE81812BD403:3D88D7D7A686E2CA]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#47 seed=[29ECFE81812BD403:90B13D98FFF5EFDE]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#48 seed=[29ECFE81812BD403:1981F0A90FC10FE]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#49 seed=[29ECFE81812BD403:6E38CE314EC4775C]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#50 seed=[29ECFE81812BD403:4D0AAE8DA5EBBA63]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#51 seed=[29ECFE81812BD403:7A19763BBC20F223]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#52 seed=[29ECFE81812BD403:A17BF7A61C4D3E1C]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#53 seed=[29ECFE81812BD403:6764EE442FB12D62]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#54 seed=[29ECFE81812BD403:51D3508FFD9CC01E]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#55 seed=[29ECFE81812BD403:6F921D165AEF73F4]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#56 seed=[29ECFE81812BD403:74A09ECFE5C3F809]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#57 seed=[29ECFE81812BD403:71ED2FAF51C27BA2]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#58 seed=[29ECFE81812BD403:A51A167AB2B5D649]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#59 seed=[29ECFE81812BD403:7F1880F9E6F7E637]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#60 seed=[29ECFE81812BD403:F35462D03B6A034A]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#61 seed=[29ECFE81812BD403:3A715557FC78F3B]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#62 seed=[29ECFE81812BD403:32546305A740C5CA]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#63 seed=[29ECFE81812BD403:A6D5B28DF1853FB1]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#64 seed=[29ECFE81812BD403:EE01E04BD32A2453]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#65 seed=[29ECFE81812BD403:B69EE1C0E26C8D3]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#66 seed=[29ECFE81812BD403:3582694501332E4E]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#67 seed=[29ECFE81812BD403:88CC711E0B44E2AC]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#68 seed=[29ECFE81812BD403:DF1B287503E12250]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#69 seed=[29ECFE81812BD403:A68F087F3EAE0D06]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#70 seed=[29ECFE81812BD403:21B0C1B804051FFC]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#71 seed=[29ECFE81812BD403:AFCD4808C42DCD2B]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#72 seed=[29ECFE81812BD403:296060C8C317C43A]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#73 seed=[29ECFE81812BD403:D62B36C6B73C5426]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#74 seed=[29ECFE81812BD403:DC0A7CF0E54E7BDC]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#75 seed=[29ECFE81812BD403:6BBD7B6312F4D16A]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#76 seed=[29ECFE81812BD403:39A7000842F5A1F6]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#77 seed=[29ECFE81812BD403:8805465DF75F82EF]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#78 seed=[29ECFE81812BD403:4A2E694986CFB43C]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#79 seed=[29ECFE81812BD403:22C499F5C576E19D]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#80 seed=[29ECFE81812BD403:A9EF1FF8BCF310DA]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#81 seed=[29ECFE81812BD403:2D3834C404C1D6CF]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#82 seed=[29ECFE81812BD403:119E92F673918127]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#83 seed=[29ECFE81812BD403:68FC190ACC1D55A1]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#84 seed=[29ECFE81812BD403:AEE4DD53629AD460]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#85 seed=[29ECFE81812BD403:AEDC1E2E6633798D]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#86 seed=[29ECFE81812BD403:EC770A0BF754FDDA]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#87 seed=[29ECFE81812BD403:581F7247FC517753]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#88 seed=[29ECFE81812BD403:259AD065A160056F]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#89 seed=[29ECFE81812BD403:BF930583CDDEA807]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#90 seed=[29ECFE81812BD403:EA1ABC416BC52483]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#91 seed=[29ECFE81812BD403:3BC1DB1F671AD1D3]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#92 seed=[29ECFE81812BD403:8A8BFB0DCD6C7F97]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#93 seed=[29ECFE81812BD403:313B8D594138BA0E]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#94 seed=[29ECFE81812BD403:F57E2FAFED4965A0]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#95 seed=[29ECFE81812BD403:333C9F71CC6631F0]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#96 seed=[29ECFE81812BD403:92AC6A83919A9BE4]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#97 seed=[29ECFE81812BD403:C9E8EAE89DA0439A]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#98 seed=[29ECFE81812BD403:DD5D8840DF65C99]}
+com.spatial4j.core.shape.JtsGeometryTest.testPointAndRectIntersect {#99 seed=[29ECFE81812BD403:C7419DFD0AB2818A]}
+com.spatial4j.core.shape.JtsGeometryTest.testWidthGreaterThan180
+com.spatial4j.core.shape.JtsGeometryTest.testRelations
+com.spatial4j.core.shape.JtsGeometryTest.testArea
+com.spatial4j.core.io.ShapeFormatTest.testParseVsInvalidExceptions
+com.spatial4j.core.io.ShapeFormatTest.testReadAndWriteTheSame
+com.spatial4j.core.io.JtsBinaryCodecTest.testPoint {p0=JtsSpatialContext.GEO}
+com.spatial4j.core.io.JtsBinaryCodecTest.testCircle {p0=JtsSpatialContext.GEO}
+com.spatial4j.core.io.JtsBinaryCodecTest.testRect {p0=JtsSpatialContext.GEO}
+com.spatial4j.core.io.JtsBinaryCodecTest.testCollection {p0=JtsSpatialContext.GEO}
+com.spatial4j.core.io.JtsBinaryCodecTest.testPoly {p0=JtsSpatialContext.GEO}
+com.spatial4j.core.io.JtsBinaryCodecTest.testPoint {p0=JtsSpatialContext{geo=true, calculator=Haversine, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.io.JtsBinaryCodecTest.testCircle {p0=JtsSpatialContext{geo=true, calculator=Haversine, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.io.JtsBinaryCodecTest.testRect {p0=JtsSpatialContext{geo=true, calculator=Haversine, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.io.JtsBinaryCodecTest.testCollection {p0=JtsSpatialContext{geo=true, calculator=Haversine, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.io.JtsBinaryCodecTest.testPoly {p0=JtsSpatialContext{geo=true, calculator=Haversine, worldBounds=Rect(minX=-180.0,maxX=180.0,minY=-90.0,maxY=90.0)}}
+com.spatial4j.core.io.GeoJSONReadWriteTest.testParseMultiLineString
+com.spatial4j.core.io.GeoJSONReadWriteTest.testEncodePolygon
+com.spatial4j.core.io.GeoJSONReadWriteTest.testParsePoint
+com.spatial4j.core.io.GeoJSONReadWriteTest.testEncodeMultiPoint
+com.spatial4j.core.io.GeoJSONReadWriteTest.testEncodeMultiLineString
+com.spatial4j.core.io.GeoJSONReadWriteTest.testParseLineString
+com.spatial4j.core.io.GeoJSONReadWriteTest.testParsePolygon
+com.spatial4j.core.io.GeoJSONReadWriteTest.testEncodeMultiPolygon
+com.spatial4j.core.io.GeoJSONReadWriteTest.testParseMultiPoint
+com.spatial4j.core.io.GeoJSONReadWriteTest.testEncodePoint
+com.spatial4j.core.io.GeoJSONReadWriteTest.testEncodeLineString
+com.spatial4j.core.io.GeoJSONReadWriteTest.testEncodeRectangle
+com.spatial4j.core.io.GeoJSONReadWriteTest.testParseMultiPolygon
+com.spatial4j.core.io.ShapeReadWriterTest.testCircle {p0=SpatialContext.GEO}
+com.spatial4j.core.io.ShapeReadWriterTest.testRectangle {p0=SpatialContext.GEO}
+com.spatial4j.core.io.ShapeReadWriterTest.testPoint {p0=SpatialContext.GEO}
+com.spatial4j.core.io.ShapeReadWriterTest.testCircle {p0=JtsSpatialContext.GEO}
+com.spatial4j.core.io.ShapeReadWriterTest.testRectangle {p0=JtsSpatialContext.GEO}
+com.spatial4j.core.io.ShapeReadWriterTest.testPoint {p0=JtsSpatialContext.GEO}
+com.spatial4j.core.context.jts.JtsSpatialContextTest.testDatelineRule
+com.spatial4j.core.distance.TestDistances.testCalcBoxByDistFromPt
+com.spatial4j.core.distance.TestDistances.testDistCalcPointOnBearing_geo
+com.spatial4j.core.distance.TestDistances.assertDistanceConversion
+com.spatial4j.core.distance.TestDistances.testSomeDistances
+com.spatial4j.core.distance.TestDistances.testNormLon
+com.spatial4j.core.distance.TestDistances.testNormLat
+com.spatial4j.core.distance.TestDistances.testDistancesAgainstVincenty
+com.spatial4j.core.distance.TestDistances.testHaversineNaN
+com.spatial4j.core.distance.TestDistances.testArea
+com.spatial4j.core.distance.TestDistances.testDistCalcPointOnBearing_cartesian
+com.spatial4j.core.io.JtsWKTReaderShapeParserTest.testWrapTopologyException
+com.spatial4j.core.io.JtsWKTReaderShapeParserTest.wktGeoRect
+com.spatial4j.core.io.JtsWKTReaderShapeParserTest.wktGeoPt

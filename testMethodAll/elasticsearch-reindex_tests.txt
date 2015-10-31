@@ -1,0 +1,8 @@
+com.pannous.es.reindex.ReIndexActionESTest.copyAliases
+com.pannous.es.reindex.ReIndexActionESTest.reindexAll
+com.pannous.es.reindex.ReIndexActionESTest.reindexAllPartial
+com.pannous.es.reindex.ReIndexActionESTest.reindexChilds
+com.pannous.es.reindex.ReIndexActionJsonTest.copyAliases
+com.pannous.es.reindex.ReIndexActionJsonTest.reindexAll
+com.pannous.es.reindex.ReIndexActionJsonTest.reindexAllPartial
+com.pannous.es.reindex.ReIndexActionJsonTest.reindexChilds

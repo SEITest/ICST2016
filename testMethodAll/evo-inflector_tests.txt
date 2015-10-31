@@ -1,0 +1,4 @@
+org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+org.atteo.evo.inflector.EnglishInflectorTest.withCount
+org.atteo.evo.inflector.EnglishInflectorTest.staticMethods
+org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList

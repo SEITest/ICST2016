@@ -1,0 +1,6 @@
+KILLED com.sprhib.test.LinkControllerTest.testHomePage
+KILLED com.sprhib.test.LinkControllerTest.testHomePage
+KILLED com.sprhib.test.LinkControllerTest.testIndexPage
+KILLED com.sprhib.test.LinkControllerTest.testIndexPage
+KILLED com.sprhib.test.LinkControllerTest.testHomePage
+KILLED com.sprhib.test.LinkControllerTest.testHomePage

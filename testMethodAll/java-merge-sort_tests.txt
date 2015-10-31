@@ -1,0 +1,6 @@
+com.fasterxml.sort.TestIterableSorter.testBasic
+com.fasterxml.sort.TestIterableSorter.testReused
+com.fasterxml.sort.TestJsonSort.testSimple
+com.fasterxml.sort.TestLargeSort.testLargeSort
+com.fasterxml.sort.TestSorter.testMergeRoundCalculation
+com.fasterxml.sort.impl.TestByteArrayComparator.testSimple

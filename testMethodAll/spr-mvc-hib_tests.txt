@@ -1,0 +1,2 @@
+com.sprhib.test.LinkControllerTest.testHomePage
+com.sprhib.test.LinkControllerTest.testIndexPage

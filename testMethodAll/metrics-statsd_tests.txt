@@ -1,0 +1,11 @@
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsByteGaugeValues
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsShortGaugeValues
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsIntegerGaugeValues
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsLongGaugeValues
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsFloatGaugeValues
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsDoubleGaugeValues
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsCounters
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsHistograms
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsMeters
+com.bealetech.metrics.reporting.StatsdReporterTest.reportsTimers
+com.bealetech.metrics.reporting.StatsdReporterTest.doesNotReportStringGaugeValues

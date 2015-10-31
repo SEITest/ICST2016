@@ -1,0 +1,1 @@
+com.github.sd4324530.fastweixin.FastweixinTest.test

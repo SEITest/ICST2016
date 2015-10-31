@@ -1,0 +1,7 @@
+com.ovea.jetty.session.serializer.JdkSerializerTest.test_non_gzip
+com.ovea.jetty.session.serializer.JdkSerializerTest.test
+com.ovea.jetty.session.serializer.JBossSerializerTest.test_non_gzip
+com.ovea.jetty.session.serializer.JBossSerializerTest.test
+com.ovea.jetty.session.serializer.XStreamSerializerTest.test
+com.ovea.jetty.session.serializer.JsonSerializerTest.test
+com.ovea.jetty.session.ClusteringTest.com.ovea.jetty.session.ClusteringTest

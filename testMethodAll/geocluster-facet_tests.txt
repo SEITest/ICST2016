@@ -1,0 +1,15 @@
+com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testContains
+com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testExtend
+com.zenobase.search.facet.geocluster.GeoBoundingBoxTests.testSize
+com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterAll
+com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterNone
+com.zenobase.search.facet.geocluster.GeoClusterBuilderTests.testClusterSome
+com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceAll
+com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceNone
+com.zenobase.search.facet.geocluster.GeoClusterReducerTests.testReduceSome
+com.zenobase.search.facet.geocluster.GeoClusterTests.testGrow
+com.zenobase.search.facet.geocluster.GeoClusterTests.testMerge
+com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteTo
+com.zenobase.search.facet.geocluster.GeoClusterTests.testReadFromWriteToSingleton
+com.zenobase.search.facet.geocluster.GeoPointsTests.testDistance
+com.zenobase.search.facet.geocluster.GeoPointsTests.testReadFromWriteTo

@@ -1,0 +1,104 @@
+com.spotify.reaper.unit.resources.RepairRunResourceTest.testSplitStateParam
+com.spotify.reaper.unit.resources.RepairRunResourceTest.testTriggerRunMissingArgument
+com.spotify.reaper.unit.resources.RepairRunResourceTest.testTriggerAlreadyRunningRun
+com.spotify.reaper.unit.resources.RepairRunResourceTest.testAddRunMissingArgument
+com.spotify.reaper.unit.resources.RepairRunResourceTest.testAddRepairRun
+com.spotify.reaper.unit.resources.RepairRunResourceTest.testAddRunClusterNotInStorage
+com.spotify.reaper.unit.resources.RepairRunResourceTest.testPauseNotExistingRun
+com.spotify.reaper.unit.resources.RepairRunResourceTest.testPauseNotRunningRun
+com.spotify.reaper.unit.resources.RepairRunResourceTest.testTriggerNotExistingRun
+com.spotify.reaper.unit.service.SegmentRunnerTest.timeoutTest
+com.spotify.reaper.unit.service.SegmentRunnerTest.successTest
+com.spotify.reaper.unit.service.SegmentRunnerTest.parseRepairIdTest
+com.spotify.reaper.unit.service.SegmentRunnerTest.failureTest
+com.spotify.reaper.unit.cassandra.JmxProxyTest.testVersionCompare
+com.spotify.reaper.unit.core.ClusterTest.testGetSymbolicName
+com.spotify.reaper.resources.CommonToolsTest.testDateTimeToISO8601
+com.spotify.reaper.resources.view.RepairRunStatusTest.testRoundIntensity
+com.spotify.reaper.resources.view.RepairScheduleStatusTest.testJacksonJSONParsing
+com.spotify.reaper.unit.service.SegmentGeneratorTest.testMax
+com.spotify.reaper.unit.service.SegmentGeneratorTest.testMin
+com.spotify.reaper.unit.service.SegmentGeneratorTest.testDisorderedRing
+com.spotify.reaper.unit.service.SegmentGeneratorTest.testZeroSizeRange
+com.spotify.reaper.unit.service.SegmentGeneratorTest.testLowerThan
+com.spotify.reaper.unit.service.SegmentGeneratorTest.testGreaterThan
+com.spotify.reaper.unit.service.SegmentGeneratorTest.testRotatedRing
+com.spotify.reaper.unit.service.SegmentGeneratorTest.testGenerateSegments
+Scenario: Registering a cluster.Given cluster seed host &quot;127.0.0.1&quot; points to cluster with name &quot;test_cluster&quot;
+Scenario: Registering a cluster.And cluster &quot;test_cluster&quot; has keyspace &quot;test_keyspace&quot; with tables &quot;test_table1, test_table2&quot;
+Scenario: Registering a cluster.And cluster &quot;test_cluster&quot; has keyspace &quot;system&quot; with tables &quot;system_table1, system_table2&quot;
+Scenario: Registering a cluster.And cluster seed host &quot;127.0.0.2&quot; points to cluster with name &quot;other_cluster&quot;
+Scenario: Registering a cluster.And cluster &quot;other_cluster&quot; has keyspace &quot;other_keyspace&quot; with tables &quot;test_table3, test_table4, test_table5&quot;
+Scenario: Registering a cluster.And cluster &quot;other_cluster&quot; has keyspace &quot;system&quot; with tables &quot;system_table1, system_table2&quot;
+Scenario: Registering a cluster.And a reaper service is running
+Scenario: Registering a cluster.Given that we are going to use &quot;127.0.0.1&quot; as cluster seed host
+Scenario: Registering a cluster.And reaper has no cluster with name &quot;test_cluster&quot; in storage
+Scenario: Registering a cluster.When an add-cluster request is made to reaper
+Scenario: Registering a cluster.Then reaper has a cluster called &quot;test_cluster&quot; in storage
+Scenario: Registering a cluster.Scenario: Registering a cluster
+Scenario: Registering a scheduled repair.Given cluster seed host &quot;127.0.0.1&quot; points to cluster with name &quot;test_cluster&quot;
+Scenario: Registering a scheduled repair.And cluster &quot;test_cluster&quot; has keyspace &quot;test_keyspace&quot; with tables &quot;test_table1, test_table2&quot;
+Scenario: Registering a scheduled repair.And cluster &quot;test_cluster&quot; has keyspace &quot;system&quot; with tables &quot;system_table1, system_table2&quot;
+Scenario: Registering a scheduled repair.And cluster seed host &quot;127.0.0.2&quot; points to cluster with name &quot;other_cluster&quot;
+Scenario: Registering a scheduled repair.And cluster &quot;other_cluster&quot; has keyspace &quot;other_keyspace&quot; with tables &quot;test_table3, test_table4, test_table5&quot;
+Scenario: Registering a scheduled repair.And cluster &quot;other_cluster&quot; has keyspace &quot;system&quot; with tables &quot;system_table1, system_table2&quot;
+Scenario: Registering a scheduled repair.And a reaper service is running
+Scenario: Registering a scheduled repair.Given reaper has a cluster called &quot;test_cluster&quot; in storage
+Scenario: Registering a scheduled repair.And reaper has 0 scheduled repairs for cluster called &quot;test_cluster&quot;
+Scenario: Registering a scheduled repair.When a new daily repair schedule is added for &quot;test_cluster&quot; and keyspace &quot;test_keyspace&quot;
+Scenario: Registering a scheduled repair.Then reaper has a cluster called &quot;test_cluster&quot; in storage
+Scenario: Registering a scheduled repair.And reaper has 1 scheduled repairs for cluster called &quot;test_cluster&quot;
+Scenario: Registering a scheduled repair.Scenario: Registering a scheduled repair
+Scenario: Deleting a scheduled repair.Given cluster seed host &quot;127.0.0.1&quot; points to cluster with name &quot;test_cluster&quot;
+Scenario: Deleting a scheduled repair.And cluster &quot;test_cluster&quot; has keyspace &quot;test_keyspace&quot; with tables &quot;test_table1, test_table2&quot;
+Scenario: Deleting a scheduled repair.And cluster &quot;test_cluster&quot; has keyspace &quot;system&quot; with tables &quot;system_table1, system_table2&quot;
+Scenario: Deleting a scheduled repair.And cluster seed host &quot;127.0.0.2&quot; points to cluster with name &quot;other_cluster&quot;
+Scenario: Deleting a scheduled repair.And cluster &quot;other_cluster&quot; has keyspace &quot;other_keyspace&quot; with tables &quot;test_table3, test_table4, test_table5&quot;
+Scenario: Deleting a scheduled repair.And cluster &quot;other_cluster&quot; has keyspace &quot;system&quot; with tables &quot;system_table1, system_table2&quot;
+Scenario: Deleting a scheduled repair.And a reaper service is running
+Scenario: Deleting a scheduled repair.Given reaper has a cluster called &quot;test_cluster&quot; in storage
+Scenario: Deleting a scheduled repair.And reaper has 1 scheduled repairs for cluster called &quot;test_cluster&quot;
+Scenario: Deleting a scheduled repair.When a new daily repair schedule is added for &quot;test_cluster&quot; and keyspace &quot;test_keyspace&quot;
+Scenario: Deleting a scheduled repair.And a second daily repair schedule is added for &quot;test_cluster&quot; and keyspace &quot;system&quot;
+Scenario: Deleting a scheduled repair.Then reaper has a cluster called &quot;test_cluster&quot; in storage
+Scenario: Deleting a scheduled repair.And reaper has 3 scheduled repairs for cluster called &quot;test_cluster&quot;
+Scenario: Deleting a scheduled repair.When the last added schedule is deleted for cluster called &quot;test_cluster&quot;
+Scenario: Deleting a scheduled repair.Then reaper has 2 scheduled repairs for cluster called &quot;test_cluster&quot;
+Scenario: Deleting a scheduled repair.And deleting cluster called &quot;test_cluster&quot; fails
+Scenario: Deleting a scheduled repair.Scenario: Deleting a scheduled repair
+Scenario: Create a cluster and a repair run and delete them.Given cluster seed host &quot;127.0.0.1&quot; points to cluster with name &quot;test_cluster&quot;
+Scenario: Create a cluster and a repair run and delete them.And cluster &quot;test_cluster&quot; has keyspace &quot;test_keyspace&quot; with tables &quot;test_table1, test_table2&quot;
+Scenario: Create a cluster and a repair run and delete them.And cluster &quot;test_cluster&quot; has keyspace &quot;system&quot; with tables &quot;system_table1, system_table2&quot;
+Scenario: Create a cluster and a repair run and delete them.And cluster seed host &quot;127.0.0.2&quot; points to cluster with name &quot;other_cluster&quot;
+Scenario: Create a cluster and a repair run and delete them.And cluster &quot;other_cluster&quot; has keyspace &quot;other_keyspace&quot; with tables &quot;test_table3, test_table4, test_table5&quot;
+Scenario: Create a cluster and a repair run and delete them.And cluster &quot;other_cluster&quot; has keyspace &quot;system&quot; with tables &quot;system_table1, system_table2&quot;
+Scenario: Create a cluster and a repair run and delete them.And a reaper service is running
+Scenario: Create a cluster and a repair run and delete them.Given reaper has no cluster with name &quot;other_cluster&quot; in storage
+Scenario: Create a cluster and a repair run and delete them.And that we are going to use &quot;127.0.0.2&quot; as cluster seed host
+Scenario: Create a cluster and a repair run and delete them.When an add-cluster request is made to reaper
+Scenario: Create a cluster and a repair run and delete them.Then reaper has a cluster called &quot;other_cluster&quot; in storage
+Scenario: Create a cluster and a repair run and delete them.And reaper has 0 scheduled repairs for cluster called &quot;other_cluster&quot;
+Scenario: Create a cluster and a repair run and delete them.When a new daily repair schedule is added for &quot;other_cluster&quot; and keyspace &quot;other_keyspace&quot;
+Scenario: Create a cluster and a repair run and delete them.Then reaper has 1 scheduled repairs for cluster called &quot;other_cluster&quot;
+Scenario: Create a cluster and a repair run and delete them.And deleting cluster called &quot;other_cluster&quot; fails
+Scenario: Create a cluster and a repair run and delete them.When the last added schedule is deleted for cluster called &quot;other_cluster&quot;
+Scenario: Create a cluster and a repair run and delete them.And a new repair is added for &quot;other_cluster&quot; and keyspace &quot;system&quot;
+Scenario: Create a cluster and a repair run and delete them.Then reaper has 1 repairs for cluster called &quot;other_cluster&quot;
+Scenario: Create a cluster and a repair run and delete them.And deleting cluster called &quot;other_cluster&quot; fails
+Scenario: Create a cluster and a repair run and delete them.When the last added repair run is deleted for cluster called &quot;other_cluster&quot;
+Scenario: Create a cluster and a repair run and delete them.And cluster called &quot;other_cluster&quot; is deleted
+Scenario: Create a cluster and a repair run and delete them.Then reaper has no cluster called &quot;other_cluster&quot; in storage
+Scenario: Create a cluster and a repair run and delete them.Scenario: Create a cluster and a repair run and delete them
+com.spotify.reaper.unit.service.RingRangeTest.testEncloses
+com.spotify.reaper.unit.service.RingRangeTest.testSpan
+com.spotify.reaper.unit.service.RingRangeTest.isWrappingTest
+com.spotify.reaper.unit.service.RingRangeTest.mergeTest
+com.spotify.reaper.ReaperApplicationConfigurationTest.testRepairIntensity
+com.spotify.reaper.unit.resources.ClusterResourceTest.testGetNonExistingCluster
+com.spotify.reaper.unit.resources.ClusterResourceTest.testAddExistingCluster
+com.spotify.reaper.unit.resources.ClusterResourceTest.testGetExistingCluster
+com.spotify.reaper.unit.resources.ClusterResourceTest.testAddCluster
+com.spotify.reaper.unit.service.RepairRunnerTest.testResumeRepair
+com.spotify.reaper.unit.service.RepairRunnerTest.testHangingRepair
+com.spotify.reaper.unit.service.RepairRunnerTest.getParallelSegmentsTest
+com.spotify.reaper.unit.service.RepairRunnerTest.getPossibleParallelRepairsTest

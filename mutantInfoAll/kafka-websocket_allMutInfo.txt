@@ -1,0 +1,97 @@
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+KILLED us.b3k.kafka.ws.messages.TextMessageTest.messageToText us.b3k.kafka.ws.messages.TextMessageTest.textToMessage us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText

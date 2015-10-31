@@ -1,0 +1,1068 @@
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testSetterAttributeInfo
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testSetterAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testGetFailsOnWriteOnly
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver
+KILLED org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver
+KILLED org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestExporter.testSetterAttributeInfo
+KILLED org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance13.testResolver org.weakref.jmx.TestInheritance3.testResolver org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance5.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestInheritance1.testResolver org.weakref.jmx.TestInheritance12.testResolver org.weakref.jmx.TestInheritance6.testResolver org.weakref.jmx.TestInheritance10.testResolver org.weakref.jmx.TestInheritance4.testResolver org.weakref.jmx.TestInheritance2.testResolver org.weakref.jmx.TestInheritance14.testResolver org.weakref.jmx.TestInheritance11.testResolver org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestInheritance8.testResolver org.weakref.jmx.TestInheritance9.testResolver org.weakref.jmx.TestInheritance7.testResolver org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testWriteOnlyAttributeInfo org.weakref.jmx.TestExporter.testWriteOnlyAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testSetterAttributeInfo org.weakref.jmx.TestExporter.testSetterAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testReadOnlyAttributeInfo org.weakref.jmx.TestExporter.testReadOnlyAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetterAttributeInfo org.weakref.jmx.TestExporter.testGetterAttributeInfo
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testReadOnlyAttributeInfo org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetterAttributeInfo org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetterAttributeInfo org.weakref.jmx.TestExporter.testGetterAttributeInfo
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSetterAttributeInfo org.weakref.jmx.TestExporter.testSetterAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetterAttributeInfo org.weakref.jmx.TestExporter.testGetterAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetterAttributeInfo org.weakref.jmx.TestExporter.testGetterAttributeInfo
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testWriteOnlyAttributeInfo org.weakref.jmx.TestExporter.testWriteOnlyAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testReadOnlyAttributeInfo org.weakref.jmx.TestExporter.testReadOnlyAttributeInfo
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetterAttributeInfo org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testGetterAttributeInfo
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperationInfo org.weakref.jmx.TestExporter.testOperationInfo
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperationInfo org.weakref.jmx.TestExporter.testOperationInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperationInfo org.weakref.jmx.TestExporter.testOperationInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperationInfo org.weakref.jmx.TestExporter.testOperationInfo
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetFailsOnNotManaged org.weakref.jmx.TestExporter.testGetFailsOnNotManaged
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetFailsOnNotManaged org.weakref.jmx.TestExporter.testGetFailsOnNotManaged
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSetFailsOnNotManaged org.weakref.jmx.TestExporter.testSetFailsOnNotManaged
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSetFailsOnNotManaged org.weakref.jmx.TestExporter.testSetFailsOnNotManaged
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testReadOnlyAttributeInfo
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.TestExporter.testSetterAttributeInfo
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testNotManagedAttributeInfo org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testGetterAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestUnexporter.testUnexportAllIgnoresMissing org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestUnexporter.testUnexportAllIgnoresMissing org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testNotManagedAttributeInfo
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestExporter.testDuplicateKey
+KILLED org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAllIdempotent org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAllIdempotent org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestUnexporter.testUnexportAll org.weakref.jmx.TestUnexporter.testUnexportOk
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf3 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder3
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf3 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder3
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf3 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder3
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf4 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder4
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf4 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder4
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf4 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder4
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf3
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf3
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf3
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf4
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf4
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf4
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testQuotesName
+KILLED org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperationInfo org.weakref.jmx.TestExporter.testOperationInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetFailsOnWriteOnly org.weakref.jmx.TestExporter.testGetFailsOnWriteOnly
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetFailsOnWriteOnly org.weakref.jmx.TestExporter.testGetFailsOnWriteOnly
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetFailsOnWriteOnly org.weakref.jmx.TestExporter.testGetFailsOnWriteOnly
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetFailsOnWriteOnly org.weakref.jmx.TestExporter.testGetFailsOnWriteOnly
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetFailsOnWriteOnly org.weakref.jmx.TestExporter.testGetFailsOnWriteOnly
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSetFailsOnReadOnly org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSetFailsOnReadOnly org.weakref.jmx.TestExporter.testSetFailsOnReadOnly
+KILLED org.weakref.jmx.TestMBeanBuilder.testSetFailsOnReadOnly org.weakref.jmx.TestExporter.testSetFailsOnReadOnly
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSetFailsOnReadOnly org.weakref.jmx.TestExporter.testSetFailsOnReadOnly
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilderQuotesPropertyNames org.weakref.jmx.TestObjectNames.testGeneratedNameOfStringWithQuoting
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNames
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder2 org.weakref.jmx.TestObjectNames.testGeneratedNameOf2 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestObjectNameBuilder.testObjectNameBuilder1 org.weakref.jmx.TestObjectNames.testGeneratedNameOf1 org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGetterAttributeInfo org.weakref.jmx.TestExporter.testGetterAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testGet org.weakref.jmx.TestExporter.testGet
+KILLED org.weakref.jmx.TestMBeanBuilder.testSet org.weakref.jmx.TestExporter.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testExportKey
+KILLED org.weakref.jmx.guice.TestMBeanModule.testExportKey
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperationInfo org.weakref.jmx.TestExporter.testGetterAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperationInfo org.weakref.jmx.TestExporter.testOperationInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperationInfo org.weakref.jmx.TestExporter.testOperationInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testGetterAttributeInfo
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testDescription org.weakref.jmx.TestExporter.testDescription
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.TestMBeanBuilder.testOperation org.weakref.jmx.TestExporter.testOperation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testSet
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.guice.TestMBeanModule.testGeneratedNameOnNamedAnnotation
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble
+KILLED org.weakref.jmx.TestUnexporter.testUnexportDouble org.weakref.jmx.TestUnexporter.testUnexportOk org.weakref.jmx.TestExports.testExportDouble
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
+KILLED org.weakref.jmx.guice.TestModuleSubclassing.testSubclassing org.weakref.jmx.guice.TestMBeanModule.testAnnotation
