@@ -1,3 +1,0 @@
-com.jakewharton.byteunits.BinaryByteUnitTest.convertInternal
-com.jakewharton.byteunits.BitUnitTest.convertInternal
-com.jakewharton.byteunits.DecimalByteUnitTest.convertInternal

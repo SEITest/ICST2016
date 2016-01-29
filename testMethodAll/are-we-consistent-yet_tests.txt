@@ -1,5 +1,0 @@
-org.gaul.areweconsistentyet.AreWeConsistentYetTest.testReadAfterCreate
-org.gaul.areweconsistentyet.AreWeConsistentYetTest.testReadAfterDelete
-org.gaul.areweconsistentyet.AreWeConsistentYetTest.testReadAfterOverwrite
-org.gaul.areweconsistentyet.AreWeConsistentYetTest.testListAfterCreate
-org.gaul.areweconsistentyet.AreWeConsistentYetTest.testListAfterDelete

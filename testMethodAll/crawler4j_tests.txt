@@ -1,3 +1,0 @@
-edu.uci.ics.crawler4j.tests.URLCanonicalizerTest.testCanonizalier
-edu.uci.ics.crawler4j.tests.TLDListTest.testTLD
-edu.uci.ics.crawler4j.tests.WebURLTest.testNoLastSlash

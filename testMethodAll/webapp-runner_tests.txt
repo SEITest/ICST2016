@@ -1,4 +1,0 @@
-webapp.runner.launch.TomcatBaseDirResolutionTest.testBaseDirAlreadyExists
-webapp.runner.launch.TomcatBaseDirResolutionTest.testBaseDirAlreadyExistsAsFile
-webapp.runner.launch.TomcatBaseDirResolutionTest.testBaseDirNotExists
-webapp.runner.launch.TomcatBaseDirResolutionTest.testSuggestBaseDir

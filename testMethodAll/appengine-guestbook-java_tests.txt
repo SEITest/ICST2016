@@ -1,2 +1,0 @@
-com.google.appengine.demos.guestbook.GuestbookServletTest.testDoGet
-com.google.appengine.demos.guestbook.SignGuestbookServletTest.testDoPost

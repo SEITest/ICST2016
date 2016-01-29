@@ -1,3 +1,0 @@
-com.taobao.profile.test.UtilitiesTest.testRepleseVariables
-com.taobao.profile.test.ConfigurePropertiesTest.testConfigure
-com.taobao.profile.test.ConfigurePropertiesTest.testConfigureProperties

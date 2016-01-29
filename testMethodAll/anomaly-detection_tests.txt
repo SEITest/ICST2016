@@ -1,2 +1,0 @@
-com.tdunning.sparse.TraceTest.testRead212
-com.tdunning.sparse.TraceTest.testRead16b

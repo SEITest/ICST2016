@@ -1,3 +1,0 @@
-com.bizo.hive.serde.csv.CSVSerdeTest.testDeserializeCustomEscape
-com.bizo.hive.serde.csv.CSVSerdeTest.testDeserializeCustomSeparators
-com.bizo.hive.serde.csv.CSVSerdeTest.testDeserialize

@@ -1,8 +1,0 @@
-se.cgbystrom.netty.HttpTest.cacheMaxAge
-se.cgbystrom.netty.HttpTest.serveFromClassPath
-se.cgbystrom.netty.HttpTest.router
-se.cgbystrom.netty.HttpTest.cacheMaxAgeExpire
-se.cgbystrom.netty.HttpTest.routerSkip
-se.cgbystrom.netty.HttpTest.bandwidthMeter
-se.cgbystrom.netty.HttpTest.serveFromFileSystem
-se.cgbystrom.netty.HttpTest.webSocketClient

@@ -1,4 +1,0 @@
-com.threerings.getdown.util.ConfigUtilTest.testSimplePairs
-com.threerings.getdown.util.ConfigUtilTest.testQualifiedPairs
-com.threerings.getdown.data.SysPropsTest.testParseJavaVersion
-com.threerings.getdown.util.FileUtilTest.testReadLines
