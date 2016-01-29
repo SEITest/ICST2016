@@ -1,0 +1,14 @@
+1,com.evernote.clients.LinkedNoteStoreClientTest.testIsNotebookWritable
+2,com.evernote.clients.LinkedNoteStoreClientTest.testListNotebooks
+3,com.evernote.clients.LinkedNoteStoreClientTest.testCreateNote
+4,com.evernote.clients.LinkedNoteStoreClientTest.testGetCorrespondingNotebook
+5,com.evernote.clients.UserStoreClientTest.testWrappedMethods
+6,com.evernote.clients.ClientFactoryTest.testGenerateUserAgent
+7,com.evernote.auth.EvernoteAuthTest.testParseOAuthResponse
+8,com.evernote.auth.EvernoteAuthTest.testExtractWebApiUrl
+9,com.evernote.auth.EvernoteAuthTest.testExtractNoteStoreUrl
+10,com.evernote.auth.EvernoteAuthTest.testExtractUserId
+11,com.evernote.auth.EvernoteAuthTest.testExtractToken
+12,com.evernote.clients.NoteStoreClientTest.testWrappedMethods
+13,com.evernote.clients.BusinessNoteStoreClientTest.testListNotebooks
+14,com.evernote.clients.BusinessNoteStoreClientTest.testCreateNotebook

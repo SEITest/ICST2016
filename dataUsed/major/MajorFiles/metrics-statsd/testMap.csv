@@ -1,0 +1,12 @@
+TestNo,TestName
+1,com.bealetech.metrics.reporting.StatsdReporterTest[reportsLongGaugeValues]
+2,com.bealetech.metrics.reporting.StatsdReporterTest[reportsByteGaugeValues]
+3,com.bealetech.metrics.reporting.StatsdReporterTest[reportsDoubleGaugeValues]
+4,com.bealetech.metrics.reporting.StatsdReporterTest[doesNotReportStringGaugeValues]
+5,com.bealetech.metrics.reporting.StatsdReporterTest[reportsShortGaugeValues]
+6,com.bealetech.metrics.reporting.StatsdReporterTest[reportsFloatGaugeValues]
+7,com.bealetech.metrics.reporting.StatsdReporterTest[reportsIntegerGaugeValues]
+8,com.bealetech.metrics.reporting.StatsdReporterTest[reportsCounters]
+9,com.bealetech.metrics.reporting.StatsdReporterTest[reportsMeters]
+10,com.bealetech.metrics.reporting.StatsdReporterTest[reportsTimers]
+11,com.bealetech.metrics.reporting.StatsdReporterTest[reportsHistograms]

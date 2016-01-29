@@ -1,0 +1,6 @@
+1,us.b3k.kafka.ws.messages.TextMessageTest.messageToText
+2,us.b3k.kafka.ws.messages.TextMessageTest.textToMessage
+3,us.b3k.kafka.ws.messages.TextMessageTest.textToKeyedMessage
+4,us.b3k.kafka.ws.messages.TextMessageTest.keyedMessageToText
+5,us.b3k.kafka.ws.messages.BinaryMessageTest.binaryToMessage
+6,us.b3k.kafka.ws.messages.BinaryMessageTest.messageToBinary

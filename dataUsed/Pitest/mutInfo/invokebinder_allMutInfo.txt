@@ -1,0 +1,1561 @@
+KILLED com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testTo
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testArrayGet
+KILLED com.headius.invokebinder.BinderTest.testArrayGet
+KILLED com.headius.invokebinder.BinderTest.testArrayGet
+KILLED com.headius.invokebinder.BinderTest.testArrayGet
+KILLED com.headius.invokebinder.BinderTest.testArrayGet
+KILLED com.headius.invokebinder.BinderTest.testArrayGet
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testArraySet
+KILLED com.headius.invokebinder.BinderTest.testArraySet
+KILLED com.headius.invokebinder.BinderTest.testArraySet
+KILLED com.headius.invokebinder.BinderTest.testArraySet
+KILLED com.headius.invokebinder.BinderTest.testArraySet
+KILLED com.headius.invokebinder.BinderTest.testArraySet
+KILLED com.headius.invokebinder.BinderTest.testBranch
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testBranch
+KILLED com.headius.invokebinder.BinderTest.testBranch
+KILLED com.headius.invokebinder.BinderTest.testBranch
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testCast
+KILLED com.headius.invokebinder.BinderTest.testCast
+KILLED com.headius.invokebinder.BinderTest.testCast
+KILLED com.headius.invokebinder.BinderTest.testCast
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testConvert2
+KILLED com.headius.invokebinder.BinderTest.testConvert2
+KILLED com.headius.invokebinder.BinderTest.testConvert2
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testConvert2
+KILLED com.headius.invokebinder.BinderTest.testConvert
+KILLED com.headius.invokebinder.BinderTest.testConvert
+KILLED com.headius.invokebinder.BinderTest.testConvert
+KILLED com.headius.invokebinder.BinderTest.testConvert
+KILLED com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll
+KILLED com.headius.invokebinder.BinderTest.testDropAll
+KILLED com.headius.invokebinder.BinderTest.testDropAll
+KILLED com.headius.invokebinder.BinderTest.testDropAll
+KILLED com.headius.invokebinder.BinderTest.testDropAll
+KILLED com.headius.invokebinder.BinderTest.testDropFirst
+KILLED com.headius.invokebinder.BinderTest.testDropFirst
+KILLED com.headius.invokebinder.BinderTest.testDropFirst
+KILLED com.headius.invokebinder.BinderTest.testDropFirst
+KILLED com.headius.invokebinder.BinderTest.testDropFirst
+KILLED com.headius.invokebinder.BinderTest.testDropFirst
+KILLED com.headius.invokebinder.BinderTest.testDropLast
+KILLED com.headius.invokebinder.BinderTest.testDropLast
+KILLED com.headius.invokebinder.BinderTest.testDropLast
+KILLED com.headius.invokebinder.BinderTest.testDropLast
+KILLED com.headius.invokebinder.BinderTest.testDropLast
+KILLED com.headius.invokebinder.BinderTest.testDropLast
+KILLED com.headius.invokebinder.BinderTest.testDropLast
+KILLED com.headius.invokebinder.BinderTest.testDropLast
+KILLED com.headius.invokebinder.BinderTest.testFilter
+KILLED com.headius.invokebinder.BinderTest.testFilter
+KILLED com.headius.invokebinder.BinderTest.testFilter
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testFrom
+KILLED com.headius.invokebinder.BinderTest.testFrom
+KILLED com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testGetField
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testGetField
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testGetField
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testGetField
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testGetField
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testGetField
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testGetField
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testGetField
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testGetField2
+KILLED com.headius.invokebinder.BinderTest.testGetField2
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2
+KILLED com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2
+KILLED com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2
+KILLED com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2
+KILLED com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testGetStatic2
+KILLED com.headius.invokebinder.BinderTest.testGetStatic2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsert
+KILLED com.headius.invokebinder.BinderTest.testInsert
+KILLED com.headius.invokebinder.BinderTest.testInsert
+KILLED com.headius.invokebinder.BinderTest.testInsert
+KILLED com.headius.invokebinder.BinderTest.testInsert
+KILLED com.headius.invokebinder.BinderTest.testInsert
+KILLED com.headius.invokebinder.BinderTest.testInsert
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvoke com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFilter com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2
+KILLED com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2
+KILLED com.headius.invokebinder.BinderTest.testInvokeReflected com.headius.invokebinder.BinderTest.testInvokeReflected2
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2
+KILLED com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2
+KILLED com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2
+KILLED com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2
+KILLED com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testInvokeConstructor2
+KILLED com.headius.invokebinder.BinderTest.testInvokeConstructor2
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testInvokeReflected2
+KILLED com.headius.invokebinder.BinderTest.testInvokeReflected2
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testFoldStatic
+KILLED com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testFoldStatic
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testFoldVirtual
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+KILLED com.headius.invokebinder.BinderTest.testPrepend
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testPrintType
+KILLED com.headius.invokebinder.BinderTest.testPrintType
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testPrintType
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testSetField
+KILLED com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testSetField
+KILLED com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testSetField
+KILLED com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testSetField
+KILLED com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testSetField
+KILLED com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testSetField
+KILLED com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testSetField
+KILLED com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testSetField
+KILLED com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testSetField
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testSetField2
+KILLED com.headius.invokebinder.BinderTest.testSetField2
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testSetStatic2
+KILLED com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testSetStatic2
+KILLED com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testSetStatic2
+KILLED com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testSetStatic2
+KILLED com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testSetStatic2
+KILLED com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testSetStatic2
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testSetStatic2
+KILLED com.headius.invokebinder.BinderTest.testSetStatic2
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testGetField2 com.headius.invokebinder.BinderTest.testInvokeConstructor com.headius.invokebinder.BinderTest.testInvokeConstructor2 com.headius.invokebinder.BinderTest.testInvokeStatic2 com.headius.invokebinder.BinderTest.testGetStatic com.headius.invokebinder.BinderTest.testGetStatic2 com.headius.invokebinder.BinderTest.testInvokeVirtual com.headius.invokebinder.BinderTest.testThrowException com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testConstant2 com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testInvokeStatic com.headius.invokebinder.BinderTest.testConstant com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testSetStatic com.headius.invokebinder.BinderTest.testVarargs com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testBranch com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testArraySet com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testGetField com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testSetStatic2 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testIdentity com.headius.invokebinder.BinderTest.testSetField2 com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testInvokeVirtual2 com.headius.invokebinder.BinderTest.testSpreadCount com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testCollect com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testSetField com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testConvert com.headius.invokebinder.BinderTest.testArrayGet com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+SURVIVED
+TIMED_OUT
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+TIMED_OUT
+SURVIVED
+SURVIVED
+NO_COVERAGE
+SURVIVED
+TIMED_OUT
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+TIMED_OUT
+SURVIVED
+TIMED_OUT
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testAppend
+TIMED_OUT
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testTo
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testInsertPrimitive
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+TIMED_OUT
+KILLED com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testInsert com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testInsertPrimitive com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testCollect
+TIMED_OUT
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+TIMED_OUT
+TIMED_OUT
+KILLED com.headius.invokebinder.BinderTest.testCollect
+TIMED_OUT
+TIMED_OUT
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinallyReturn
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testCollect
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testCollect
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testSpread com.headius.invokebinder.BinderTest.testSpreadCount
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testNop
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testCast com.headius.invokebinder.BinderTest.testNop
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testCast
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testCast
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testCast2 com.headius.invokebinder.BinderTest.testCast
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+TIMED_OUT
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testVarargs
+KILLED com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testConvert
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testConvert
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testConvert
+KILLED com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testConvert
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testConvert2 com.headius.invokebinder.BinderTest.testConvert
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testFilter
+KILLED com.headius.invokebinder.BinderTest.testFilter
+KILLED com.headius.invokebinder.BinderTest.testFilter
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testFilter
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testFilter
+KILLED com.headius.invokebinder.BinderTest.testFilter
+SURVIVED
+SURVIVED
+KILLED com.headius.invokebinder.BinderTest.testFilter
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testFilter
+KILLED com.headius.invokebinder.BinderTest.testFilter
+KILLED com.headius.invokebinder.BinderTest.testFilter
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2
+KILLED com.headius.invokebinder.BinderTest.testFoldVirtual
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testFoldStatic com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual
+KILLED com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testType com.headius.invokebinder.BinderTest.testPrintType com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testDropAll com.headius.invokebinder.BinderTest.testDropInsert com.headius.invokebinder.BinderTest.testFold com.headius.invokebinder.BinderTest.testFrom com.headius.invokebinder.BinderTest.testDropReorder com.headius.invokebinder.BinderTest.testPrepend com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testDropFirst com.headius.invokebinder.BinderTest.testDropLast com.headius.invokebinder.BinderTest.testTryFinallyReturn3 com.headius.invokebinder.BinderTest.testTryFinally com.headius.invokebinder.BinderTest.testTryFinally2 com.headius.invokebinder.BinderTest.testTryFinallyReturn com.headius.invokebinder.BinderTest.testTryFinallyReturn2 com.headius.invokebinder.BinderTest.testFoldVirtual com.headius.invokebinder.BinderTest.testTo com.headius.invokebinder.BinderTest.testNop com.headius.invokebinder.BinderTest.testAppend
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3
+KILLED com.headius.invokebinder.BinderTest.testTryFinally3 com.headius.invokebinder.BinderTest.testTryFinallyReturn3

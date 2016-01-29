@@ -1,0 +1,7 @@
+1,com.manning.nettyinaction.chapter10.FrameChunkDecoderTest.testFramesDecoded
+2,com.manning.nettyinaction.chapter14.MemcachedRequestEncoderTest.testMemcachedRequestEncoder
+3,com.manning.nettyinaction.chapter10.FixedLengthFrameDecoderTest.testFramesDecoded
+4,com.manning.nettyinaction.chapter10.FixedLengthFrameDecoderTest.testFramesDecoded2
+5,com.manning.nettyinaction.chapter14.MemcachedResponseDecoderTest.testMemcachedResponseDecoderFragments
+6,com.manning.nettyinaction.chapter14.MemcachedResponseDecoderTest.testMemcachedResponseDecoder
+7,com.manning.nettyinaction.chapter10.AbsIntegerEncoderTest.testEncoded

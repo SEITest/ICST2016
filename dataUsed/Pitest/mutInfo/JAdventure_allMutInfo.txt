@@ -1,0 +1,5098 @@
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testType com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testType com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testType
+SURVIVED
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testType com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testSetters com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testType com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testType com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+SURVIVED
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testType com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testType com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testSetters com.jadventure.game.entities.PlayerTest.newRecruit
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testSetters
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+TIMED_OUT
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+TIMED_OUT
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.newLocation com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.newLocation com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.navigation.LocationTest.newLocation com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.newLocation com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.newLocation com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.navigation.LocationTest.placeItem
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+SURVIVED
+KILLED com.jadventure.game.navigation.LocationTest.newLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+KILLED com.jadventure.game.navigation.LocationTest.newLocation
+KILLED com.jadventure.game.navigation.LocationTest.newLocation
+KILLED com.jadventure.game.navigation.LocationTest.newLocation
+KILLED com.jadventure.game.navigation.LocationTest.placeItem
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.navigation.LocationTest.newLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation
+NO_COVERAGE
+KILLED com.jadventure.game.navigation.LocationTest.newLocation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.navigation.LocationTest.newLocation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.navigation.LocationTest.newLocation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.navigation.LocationTest.placeItem
+KILLED com.jadventure.game.navigation.LocationTest.placeItem
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+TIMED_OUT
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+SURVIVED
+SURVIVED
+TIMED_OUT
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+TIMED_OUT
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+SURVIVED
+TIMED_OUT
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+SURVIVED
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.load com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+SURVIVED
+SURVIVED
+NO_COVERAGE
+KILLED com.jadventure.game.repository.ItemRepositoryTest.retrieveItems
+KILLED com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.repository.NpcRepositoryTest.createRepo com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+KILLED com.jadventure.game.repository.NpcRepositoryTest.getNpc com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.conversation.ConversationManagerTest.testCreation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.repository.ItemRepositoryTest.storeItems com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.ItemTest.checkEqual com.jadventure.game.items.ItemTest.checkNotEqual com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems
+SURVIVED
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.repository.ItemRepositoryTest.storeItems
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+KILLED com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.items.ItemTest.checkEqual com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.items.ItemTest.checkEqual com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.items.ItemTest.checkEqual com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+KILLED com.jadventure.game.items.ItemTest.checkEqual com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.items.ItemTest.checkEqual com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+NO_COVERAGE
+KILLED com.jadventure.game.items.ItemTest.checkEqual com.jadventure.game.items.ItemTest.checkNotEqual com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+NO_COVERAGE
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.repository.ItemRepositoryTest.addItem
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.repository.ItemRepositoryTest.addItems com.jadventure.game.repository.ItemRepositoryTest.getRandomItemTest com.jadventure.game.repository.ItemRepositoryTest.retrieveItems com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.repository.ItemRepositoryTest.addItem com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.ItemRepositoryTest.storeItems com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.items.ItemTest.createTest
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.repository.ItemRepositoryTest.addItem
+KILLED com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+SURVIVED
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItem
+KILLED com.jadventure.game.repository.ItemRepositoryTest.addItem
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+SURVIVED
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.repository.ItemRepositoryTest.load
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+SURVIVED
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+KILLED com.jadventure.game.items.ItemTest.createTest com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.entities.EntityTest.testStorage
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.navigation.LocationTest.newLocation
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.navigation.LocationTest.newLocation
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+SURVIVED
+KILLED com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.conversation.LineTest.createTest
+KILLED com.jadventure.game.conversation.LineTest.createTest
+KILLED com.jadventure.game.conversation.LineTest.createTest
+KILLED com.jadventure.game.conversation.LineTest.createTest
+SURVIVED
+SURVIVED
+KILLED com.jadventure.game.conversation.LineTest.createTest
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.conversation.LineTest.createTest
+KILLED com.jadventure.game.conversation.LineTest.createTest
+NO_COVERAGE
+KILLED com.jadventure.game.conversation.LineTest.createTest
+KILLED com.jadventure.game.conversation.LineTest.createTest
+KILLED com.jadventure.game.conversation.LineTest.createTest
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.entities.EntityTest.testType com.jadventure.game.entities.EntityTest.testSetters com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testCreation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.entities.EntityTest.testType com.jadventure.game.entities.EntityTest.testSetters com.jadventure.game.entities.EntityTest.testEquipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.EntityTest.testEquipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_OneHanded com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testCreation com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocation com.jadventure.game.repository.LocationRepositoryTest.testGetLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit com.jadventure.game.entities.PlayerTest.oldPlayer com.jadventure.game.conversation.ConversationManagerTest.testCreation
+KILLED com.jadventure.game.entities.EntityTest.testCreation
+KILLED com.jadventure.game.entities.EntityTest.testCreation
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+KILLED com.jadventure.game.entities.PlayerTest.oldPlayer
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+KILLED com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook
+KILLED com.jadventure.game.navigation.LocationTest.placeItem com.jadventure.game.items.StorageTest.addWisky com.jadventure.game.items.StorageTest.addAndRemoveWiskyAndBook com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourSingleLocation com.jadventure.game.entities.EntityTest.testUnequipItem_OneHand com.jadventure.game.entities.PlayerTest.newSewerRat com.jadventure.game.entities.EntityTest.testStorage com.jadventure.game.entities.EntityTest.testEquipItem_OneHandedWithTwoHandedEquip com.jadventure.game.entities.EntityTest.testUnequipItem_TwoHanded com.jadventure.game.entities.EntityTest.testUnequipItem_ArmourDoubleLocation com.jadventure.game.entities.EntityTest.testEquipItem_ArmourSingleLocationWithDoubleLocationEquip com.jadventure.game.entities.PlayerTest.newRecruit
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED

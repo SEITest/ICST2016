@@ -1,0 +1,4 @@
+1,su.litvak.chromecast.api.v2.ConnectionLostTest.testDisconnect
+2,su.litvak.chromecast.api.v2.ConnectionLostTest.testReconnect
+3,su.litvak.chromecast.api.v2.MediaStatusTest.testDeserializationWithoutIdleReason
+4,su.litvak.chromecast.api.v2.MediaStatusTest.testDeserializationWithIdleReason

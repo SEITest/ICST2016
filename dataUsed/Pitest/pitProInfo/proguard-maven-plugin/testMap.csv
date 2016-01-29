@@ -1,0 +1,7 @@
+1,com.github.wvengen.maven.proguard.ArtifactFilterTest.regexNoMatch
+2,com.github.wvengen.maven.proguard.ArtifactFilterTest.emptyArtifactDoesNotMatch
+3,com.github.wvengen.maven.proguard.ArtifactFilterTest.regexMatch
+4,com.github.wvengen.maven.proguard.ArtifactFilterTest.invalidRegex
+5,com.github.wvengen.maven.proguard.ArtifactFilterTest.wildcardMatch
+6,com.github.wvengen.maven.proguard.ArtifactFilterTest.noMatchWithRegexTokens
+7,com.github.wvengen.maven.proguard.ArtifactFilterTest.noMatch

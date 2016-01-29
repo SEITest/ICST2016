@@ -1,0 +1,8 @@
+1,com.fiestacabin.dropwizard.quartz.GuiceJobFactoryTest.testJobCreation
+2,com.fiestacabin.dropwizard.quartz.ManagedSchedulerTest.itParsesRepeatingCronExpressions
+3,com.fiestacabin.dropwizard.quartz.ManagedSchedulerTest.itParsesSpecificIntervals
+4,com.fiestacabin.dropwizard.quartz.ManagedSchedulerTest.itExpectsEitherCronOrInterval
+5,com.fiestacabin.dropwizard.quartz.ManagedSchedulerTest.itParsesDailyCronExpressions
+6,com.fiestacabin.dropwizard.quartz.ManagedSchedulerTest.itDiscoversJobClasses
+7,com.fiestacabin.dropwizard.quartz.ManagedSchedulerTest.itUsesConfiguredTimeZone
+8,com.fiestacabin.dropwizard.quartz.ManagedSchedulerTest.itShutsDownQuartz

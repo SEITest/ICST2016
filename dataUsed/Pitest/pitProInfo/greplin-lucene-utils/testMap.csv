@@ -1,0 +1,14 @@
+1,com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+2,com.greplin.lucene.query.QueriesTest.testPhraseForWithNullStringReturnsNull
+3,com.greplin.lucene.filter.PhraseFilterTest.testBasics
+4,com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+5,com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+6,com.greplin.lucene.filter.HasFieldFilterTest.testBasics
+7,com.greplin.lucene.filter.FiltersTest.testNot
+8,com.greplin.lucene.filter.PrefixFilterTest.testBasics
+9,com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary
+10,com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed
+11,com.greplin.lucene.index.TermsForFieldTest.testIndexed
+12,com.greplin.lucene.index.TermsForFieldTest.testUnindexed
+13,com.greplin.lucene.index.TermsForFieldTest.testNonexistent
+14,com.greplin.lucene.filter.FilterBitsProviderTest.testGetShouldHandleNullDocIdSetIterator

@@ -1,0 +1,16 @@
+1,com.sforce.ws.codegen.AggregateCodeGeneratorTest.testGenerateSObjectSource
+2,com.sforce.ws.codegen.ConnectionCodeGeneratorTest.testGenerateConnectionSource
+3,com.sforce.async.CSVReaderTest.testRowSizeLimits
+4,com.sforce.async.CSVReaderTest.testFileSizeLimits
+5,com.sforce.async.CSVReaderTest.testRowLimits
+6,com.sforce.async.CSVReaderTest.testHeader
+7,com.sforce.async.CSVReaderTest.testQuoteInsideField
+8,com.sforce.async.CSVReaderTest.testBasic
+9,com.sforce.async.CSVReaderTest.testQuote
+10,com.sforce.async.CSVReaderTest.testNotClosedQuote
+11,com.sforce.ws.codegen.SObjectCodeGeneratorTest.testGenerateSObjectSource
+12,com.sforce.ws.codegen.ConnectorCodeGeneratorTest.testGenerateConnectorSource
+13,com.sforce.ws.codegen.SimpleTypeCodeGeneratorTest.testGenerateSimpleTypeSource
+14,com.sforce.ws.bind.XmlObjectTest.testStringArray
+15,com.sforce.ws.bind.XmlObjectTest.testSubclassWrite
+16,com.sforce.ws.codegen.ComplexTypeCodeGeneratorTest.testGenerateComplexTypeSource

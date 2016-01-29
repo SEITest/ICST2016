@@ -1,0 +1,14 @@
+1,me.qmx.jitescript.AnnotationsTest.testAnnotationWithEnumValue
+2,me.qmx.jitescript.AnnotationsTest.testAnnotatedMethod
+3,me.qmx.jitescript.AnnotationsTest.testAnnotatedField
+4,me.qmx.jitescript.AnnotationsTest.testAnnotationWithArrayValue
+5,me.qmx.jitescript.AnnotationsTest.testAnnotationWithAnnotationValue
+6,me.qmx.jitescript.AnnotationsTest.testAnnotationWithScalarValue
+7,me.qmx.jitescript.JiteClassTest.testDSL
+8,me.qmx.jitescript.JiteClassTest.testInterfaceImpl
+9,me.qmx.jitescript.JiteClassTest.generateClassWithSuperclasses
+10,me.qmx.jitescript.JiteClassTest.superclassHashNondefaultConstructor
+11,me.qmx.jitescript.JiteClassTest.testFields
+12,me.qmx.jitescript.JiteClassTest.testPrivateClass
+13,me.qmx.jitescript.JiteClassTest.testPrivateConstructor
+14,me.qmx.jitescript.JiteClassTest.testPrivateInnerClass

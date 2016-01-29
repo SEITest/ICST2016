@@ -1,0 +1,3 @@
+1,com.theoryinpractise.clojure.ClojureReplMojoTest.testJLineAvailable
+2,com.theoryinpractise.clojure.NamespaceDiscoveryTest.testNamespaceDiscovery
+3,com.theoryinpractise.clojure.NamespaceDiscoveryTest.testNamespaceFiltering

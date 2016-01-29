@@ -1,0 +1,10 @@
+1,com.maxmind.geoip.CityLookupTest.testCityLookup
+2,com.maxmind.geoip.OrgLookupTest.testOrgLookup
+3,com.maxmind.geoip.OrgLookupTest.testIspLookup
+4,com.maxmind.geoip.NetSpeedCellLookupTest.testNetSpeedCellLookup
+5,com.maxmind.geoip.ASNumLookupTest.testASNumLookup
+6,com.maxmind.geoip.DomainLookupTest.testDomainLookup
+7,com.maxmind.geoip.CountryLookupV6Test.testCountryLookup
+8,com.maxmind.geoip.CityLookupIdxTest.testCityLookupIdx
+9,com.maxmind.geoip.CountryLookupTest.testCountryLookup
+10,com.maxmind.geoip.CityLookupV6Test.testCityLookupV6

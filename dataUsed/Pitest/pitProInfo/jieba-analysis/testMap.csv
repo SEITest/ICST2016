@@ -1,0 +1,5 @@
+1,com.huaban.analysis.jieba.JiebaSegmenterTest.testCutForIndex
+2,com.huaban.analysis.jieba.JiebaSegmenterTest.testBugSentence
+3,com.huaban.analysis.jieba.JiebaSegmenterTest.testSegmentSpeed
+4,com.huaban.analysis.jieba.JiebaSegmenterTest.testLongTextSegmentSpeed
+5,com.huaban.analysis.jieba.JiebaSegmenterTest.testCutForSearch

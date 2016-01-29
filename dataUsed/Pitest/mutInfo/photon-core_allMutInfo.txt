@@ -1,0 +1,104 @@
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.test404
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testUnsupportedType
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG com.thousandmemories.photon.core.PhotoResourceTest.testRotate com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testUnsupportedType
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testUnsupportedType com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG com.thousandmemories.photon.core.PhotoResourceTest.testRotate com.thousandmemories.photon.core.PhotoResourceTest.testNoModifications com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testRotate com.thousandmemories.photon.core.PhotoResourceTest.testNoModifications
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testUnsupportedType com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG com.thousandmemories.photon.core.PhotoResourceTest.testRotate com.thousandmemories.photon.core.PhotoResourceTest.testNoModifications com.thousandmemories.photon.core.PhotoResourceTest.testCropping com.thousandmemories.photon.core.PhotoResourceTest.test404
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG com.thousandmemories.photon.core.PhotoResourceTest.testRotate com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG com.thousandmemories.photon.core.PhotoResourceTest.testRotate com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+NO_COVERAGE
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testNoModifications
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+SURVIVED
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG com.thousandmemories.photon.core.PhotoResourceTest.testRotate com.thousandmemories.photon.core.PhotoResourceTest.testNoModifications com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testNoModifications
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+SURVIVED
+SURVIVED
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG com.thousandmemories.photon.core.PhotoResourceTest.testRotate com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG com.thousandmemories.photon.core.PhotoResourceTest.testRotate com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+SURVIVED
+SURVIVED
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+SURVIVED
+SURVIVED
+SURVIVED
+TIMED_OUT
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testFitWidth com.thousandmemories.photon.core.PhotoResourceTest.testPNG
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+SURVIVED
+SURVIVED
+NO_COVERAGE
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+SURVIVED
+SURVIVED
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+SURVIVED
+SURVIVED
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+SURVIVED
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testCropping
+NO_COVERAGE
+KILLED com.thousandmemories.photon.core.PhotoResourceTest.testRotate
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT
+TIMED_OUT

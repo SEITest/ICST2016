@@ -1,0 +1,11 @@
+TestNo,TestName
+1,com.baidu.bjf.remoting.protobuf.idlgenerate.ComplexIDLGenerateTest[testProtobufIDLGeneratorGetIDLTypesReturns]
+2,com.baidu.bjf.remoting.protobuf.idlgenerate.ComplexIDLGenerateTest[testListIDLGenerate]
+3,com.baidu.bjf.remoting.protobuf.idlgenerate.ComplexIDLGenerateTest[TestGenerateIDLComplexList]
+4,com.baidu.bjf.remoting.protobuf.idlgenerate.ComplexIDLGenerateTest[testGenerateIDLSimpleType]
+5,com.baidu.bjf.remoting.protobuf.idlgenerate.ComplexIDLGenerateTest[testGenerateIDLEnumTypeAndTypesReturns]
+6,com.baidu.bjf.remoting.protobuf.idlgenerate.ComplexIDLGenerateTest[testEmptyClass]
+7,com.baidu.bjf.remoting.protobuf.idlgenerate.ComplexIDLGenerateTest[TestGenerateIDLComplexListWithDefalut]
+8,com.baidu.bjf.remoting.protobuf.idlgenerate.ComplexIDLGenerateTest[testMessageDependencyMissException]
+9,com.baidu.bjf.remoting.protobuf.simpletypes.AllTypesPressureTest[testCommonEncode]
+10,com.baidu.bjf.remoting.protobuf.simpletypes.AllTypesPressureTest[testCommonDecode]

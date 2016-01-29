@@ -1,0 +1,13 @@
+TestNo,TestName
+1,com.offbytwo.iclojure.InputOutputCacheTest[addMoreElementsThanTheSize]
+2,com.offbytwo.iclojure.InputOutputCacheTest[elementsIndexedStartingWithOne]
+3,com.offbytwo.iclojure.InputOutputCacheTest[getSize]
+4,com.offbytwo.iclojure.InputOutputCacheTest[getFirstCachedIndexWithMoreElementsThanSize]
+5,com.offbytwo.iclojure.InputOutputCacheTest[getFirstCachedIndexWithLessElementsThanSize]
+6,com.offbytwo.iclojure.util.ReflectionUtilsTest[separateStaticsReturnsStaticFieldsFirstNonStaticFieldsSecond]
+7,com.offbytwo.iclojure.util.StringUtilsTest[joinOfEmptyArrayReturnsEmptyString]
+8,com.offbytwo.iclojure.util.StringUtilsTest[joinOfMultipleElementArrayReturnsCompomentsJoinedBySeparator]
+9,com.offbytwo.iclojure.util.StringUtilsTest[joinOfSingleElementArrayReturnsSingleElementString]
+10,com.offbytwo.iclojure.util.ReflectionUtilsTest[formatParameterTypesReturnsCommaSeparatedListOfClassNames]
+11,com.offbytwo.iclojure.util.ReflectionUtilsTest[separateStaticsReturnsStaticMethodsFirstNonStaticMethodsSecond]
+12,com.offbytwo.iclojure.InputOutputCacheTest[getLastCachedIndex]

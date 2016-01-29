@@ -1,0 +1,458 @@
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+TIMED_OUT
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+TIMED_OUT
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.wiktionaryList org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+NO_COVERAGE
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+TIMED_OUT
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+SURVIVED
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList
+KILLED org.atteo.evo.inflector.EnglishInflectorTest.staticMethods org.atteo.evo.inflector.EnglishInflectorTest.withCount org.atteo.evo.inflector.EnglishInflectorTest.exampleWordList

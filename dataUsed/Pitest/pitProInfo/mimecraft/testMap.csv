@@ -1,0 +1,14 @@
+1,com.squareup.mimecraft.ComplexExamplesTest.fieldAndTwoFiles
+2,com.squareup.mimecraft.FormWriterTest.urlEncoding
+3,com.squareup.mimecraft.FormWriterTest.encodedPairs
+4,com.squareup.mimecraft.MultipartWriterTest.onePartRequired
+5,com.squareup.mimecraft.MultipartWriterTest.threeParts
+6,com.squareup.mimecraft.MultipartWriterTest.singlePart
+7,com.squareup.mimecraft.PartTest.completePart
+8,com.squareup.mimecraft.PartTest.noBodyThrowsException
+9,com.squareup.mimecraft.PartTest.settingHeaderTwiceThrowsException
+10,com.squareup.mimecraft.PartTest.settingBodyTwiceThrowsException
+11,com.squareup.mimecraft.PartTest.blankHeadersThrowsException
+12,com.squareup.mimecraft.PartTest.bodyBytesSetsContentLength
+13,com.squareup.mimecraft.PartTest.bodyBytesOverridesLength
+14,com.squareup.mimecraft.PartTest.multipartBodySetsType

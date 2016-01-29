@@ -1,0 +1,6 @@
+1,se.fishtank.css.selectors.matching.SelectorMatcherTest.testSelectorMatcherWithSimpleSelectorMatcher
+2,se.fishtank.css.selectors.matching.SelectorMatcherTest.testSelectorMatching
+3,se.fishtank.css.selectors.parser.NthParserTest.testNthParserSpecCompliance
+4,se.fishtank.css.selectors.tokenizer.TokenizerTest.testTokenizerSpecCompliance
+5,se.fishtank.css.selectors.SelectorsTest.testQuerySelectorAll
+6,se.fishtank.css.selectors.SelectorsTest.testQuerySelector

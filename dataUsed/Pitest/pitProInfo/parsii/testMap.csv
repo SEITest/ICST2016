@@ -1,0 +1,16 @@
+1,parsii.ParserTest.signedParentheses
+2,parsii.ParserTest.signedValueAfterOperand
+3,parsii.ParserTest.errors
+4,parsii.ParserTest.number
+5,parsii.ParserTest.signed
+6,parsii.ParserTest.simple
+7,parsii.ParserTest.scopes
+8,parsii.ParserTest.quantifiers
+9,parsii.ParserTest.functions
+10,parsii.ParserTest.blockComment
+11,parsii.ParserTest.precedence
+12,parsii.ParserTest.variables
+13,parsii.ParserTest.getVariables
+14,parsii.ParserTest.relationalOperators
+15,parsii.ParserTest.trailingDecimalPoint
+16,parsii.ParserTest.startingWithDecimalPoint

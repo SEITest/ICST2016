@@ -1,0 +1,15 @@
+1,com.hubspot.dropwizard.guice.GuiceBundleTest.createsInjectorWhenInit
+2,com.hubspot.dropwizard.guice.GuiceBundleTest.serviceLocatorIsAvaliable
+3,com.hubspot.dropwizard.guice.HK2LinkerTest.jitGuiceBindingsAreBridgedToHk2
+4,com.hubspot.dropwizard.guice.HK2LinkerTest.explicitGuiceBindingsAreBridgedToHk2
+5,com.hubspot.dropwizard.guice.InjectedResourcesTest.shouldGetExplicitMessage
+6,com.hubspot.dropwizard.guice.InjectedResourcesTest.shouldGetJitMessage
+7,com.hubspot.dropwizard.guice.AutoConfigTest.addResources
+8,com.hubspot.dropwizard.guice.AutoConfigTest.addBundlesDuringBootStrap
+9,com.hubspot.dropwizard.guice.AutoConfigTest.addManaged
+10,com.hubspot.dropwizard.guice.AutoConfigTest.addTasks
+11,com.hubspot.dropwizard.guice.AutoConfigTest.addProviders
+12,com.hubspot.dropwizard.guice.AutoConfigTest.addInjectableHealthChecks
+13,com.hubspot.dropwizard.guice.AutoConfigTest.interfaceResourcesNotAdded
+14,com.hubspot.dropwizard.guice.InjectedIntegrationTest.shouldGetExplicitMessage
+15,com.hubspot.dropwizard.guice.InjectedIntegrationTest.shouldGetJitMessage

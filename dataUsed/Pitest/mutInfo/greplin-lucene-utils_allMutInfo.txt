@@ -1,0 +1,2631 @@
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+SURVIVED
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+TIMED_OUT
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+TIMED_OUT
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.FiltersTest.testNot
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+TIMED_OUT
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PrefixFilterTest.testFieldBoundary com.greplin.lucene.filter.PrefixFilterTest.testBasics
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+NO_COVERAGE
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+TIMED_OUT
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+TIMED_OUT
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.FiltersTest.testNot
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.query.QueriesTest.testPhraseForWithNullStringReturnsNull
+NO_COVERAGE
+SURVIVED
+KILLED com.greplin.lucene.query.QueriesTest.testPhraseForWithNullStringReturnsNull
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.query.QueriesTest.testPhraseForWithNullStringReturnsNull
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+TIMED_OUT
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.FilterBitsProviderTest.testGetShouldHandleNullDocIdSetIterator
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.greplin.lucene.filter.FilterBitsProviderTest.testGetShouldHandleNullDocIdSetIterator
+SURVIVED
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED com.greplin.lucene.filter.FilterBitsProviderTest.testGetShouldHandleNullDocIdSetIterator
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed
+SURVIVED
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+NO_COVERAGE
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+SURVIVED
+KILLED com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+SURVIVED
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+TIMED_OUT
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+SURVIVED
+NO_COVERAGE
+TIMED_OUT
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+NO_COVERAGE
+TIMED_OUT
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+NO_COVERAGE
+SURVIVED
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.query.QueriesTest.testPhraseForWithNullStringReturnsNull
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.query.QueriesTest.testPhraseForWithNullStringReturnsNull
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.query.QueriesTest.testPhraseForWithNullStringReturnsNull
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+SURVIVED
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+NO_COVERAGE
+KILLED com.greplin.lucene.index.TermsForFieldTest.testNonexistent com.greplin.lucene.index.TermsForFieldTest.testUnindexed com.greplin.lucene.index.TermsForFieldTest.testStoredAndIndexed com.greplin.lucene.index.TermsForFieldTest.testIndexed
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+SURVIVED
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+NO_COVERAGE
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithPredicate com.greplin.lucene.filter.PhraseFilterTest.testIntersectionWithFilter com.greplin.lucene.filter.PhraseFilterTest.testBasics
+NO_COVERAGE
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+KILLED com.greplin.lucene.query.PredicateBonusQueryTest.testBasics
+NO_COVERAGE
+NO_COVERAGE

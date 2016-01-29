@@ -1,0 +1,7 @@
+TestNo,TestName
+1,me.qmx.jitescript.JiteClassTest[testPrivateClass]
+2,me.qmx.jitescript.JiteClassTest[testPrivateConstructor]
+3,me.qmx.jitescript.JiteClassTest[testDSL]
+4,me.qmx.jitescript.JiteClassTest[testFields]
+5,me.qmx.jitescript.JiteClassTest[testPrivateInnerClass]
+6,me.qmx.jitescript.JiteClassTest[testInterfaceImpl]

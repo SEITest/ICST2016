@@ -1,0 +1,781 @@
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldLoadEntries
+NO_COVERAGE
+TIMED_OUT
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldExpireInOrder
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldLoadEntries
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testExpectedExpiration
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testExpectedExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testGet
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.expirationListenerShouldBeCalled
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldNotReschedulePutsWithSameValue
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testRemoveExpirationListener
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testRemoveExpirationListener
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldNotReschedulePutsWithSameValue
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.expirationListenerShouldBeCalled
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryReplaceSameKey net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryReplaceSameKey net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryReplaceSameKey net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryReplaceSameKey net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringEntryTest.testEntryOrdering net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldAllowNullValue
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldLoadEntries
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldLoadEntries
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.expirationListenerShouldBeCalled
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldExpireInOrder
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.expirationListenerShouldBeCalled
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldExpireInOrder
+SURVIVED
+TIMED_OUT
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldNotReschedulePutsWithSameValue
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldExpireInOrder
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldBulkExpire
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+TIMED_OUT
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testRemoveFromMapWithOneEntry
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testRemoveFromMapWithOneEntry
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpiration
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+SURVIVED
+NO_COVERAGE
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+SURVIVED
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.testValues
+KILLED net.jodah.expiringmap.ExpiringMapTest.testValues
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testRemoveFromMapWithOneEntry
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testRemoveFromMapWithOneEntry
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.entriesShouldBeReplaced
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldNotReschedulePutsWithSameValue
+SURVIVED
+SURVIVED
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldNotReschedulePutsWithSameValue
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+SURVIVED
+SURVIVED
+NO_COVERAGE
+KILLED net.jodah.expiringmap.ExpiringMapTest.shouldNotReschedulePutsWithSameValue
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.expirationListenerShouldBeThreaded
+KILLED net.jodah.expiringmap.ExpiringMapTest.expirationListenerShouldBeThreaded
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.expirationListenerShouldBeThreaded
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.testConcurrentModification
+KILLED net.jodah.expiringmap.ExpiringMapTest.testValues
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+NO_COVERAGE
+SURVIVED
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.testEntrySetExpirationPolicy
+KILLED net.jodah.expiringmap.ExpiringMapTest.expirationListenerShouldBeThreaded
+KILLED net.jodah.expiringmap.ExpiringMapTest.expirationListenerShouldBeThreaded
+KILLED net.jodah.expiringmap.ExpiringMapTest.deadlockShouldNotOccur
