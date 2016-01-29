@@ -10,7 +10,7 @@ and non-adequate-test-based metric) and reveal various interesting findings.
 The homepage contains four main parts. From this readme.md file, we hope you can understand the organization of the homepage as well as know how to use and replicate the results.
 
 ###Metric Plots
-This folder contains the plots used in the paper in pdf form. Trend and lines can be seen more clearly shown by big pictures.
+This folder contains the plots used in the paper in pdf form. Trends and lines can be seen more clearly shown by big pictures.
 
 ###important experiment result
 
